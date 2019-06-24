@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.header {
+  padding: 50px;
+  text-align: center;
+  background: #F4FA58;
+  color: black;
+  font-size: 30px;
+
+
+
+.content {padding:20px;}
